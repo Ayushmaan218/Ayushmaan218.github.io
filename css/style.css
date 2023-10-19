@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: o;
+}
+h2{
+    text-align: center;
+}
+/* .container{
+    border: 2px solid black;
+} */
+.ed{
+    border: 2px solid black;
+    width: 250px;
+    margin: 23px;
+    padding: 4px;
+    border-radius: 20px;
+    
+    
+}
+.img1{
+    
+}
+.hobbies{
+    border: 2px solid black;
+    width: 250px;
+    margin: 23px;
+    padding: 4px;
+    border-radius: 20px;
+    
+    
+}
+.skills{
+    border: 2px solid black;
+    width: 250px;
+    margin: 23px;
+    padding: 4px;
+    border-radius: 20px;
+    
+    
+}
