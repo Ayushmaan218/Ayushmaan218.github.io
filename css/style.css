@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
 *{
     margin: 0;
     padding: o;
@@ -5,36 +6,57 @@
 h2{
     text-align: center;
 }
-/* .container{
-    border: 2px solid black;
-} */
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.container{
+    background-color: rgb(43 123 189);
+}
 .ed{
+    
     border: 2px solid black;
     width: 250px;
     margin: 23px;
     padding: 4px;
     border-radius: 20px;
-    
-    
+    display: inline-block;
+    margin-right: 50%;
+    background-color: bisque;
+    color: black;
+    font-family: 'Nanum Myeongjo', serif;
 }
 .img1{
-    
+    display: inline-block;
 }
 .hobbies{
     border: 2px solid black;
     width: 250px;
     margin: 23px;
     padding: 4px;
-    border-radius: 20px;
-    
-    
-}
+    border-radius: 20px; 
+    display: inline-block;
+    margin-left: 50%;
+    background-color: bisque;
+    color: black;
+    font-family: 'Nanum Myeongjo', serif;
+ }
+ .img2{
+    display: inline-block;
+ }
 .skills{
     border: 2px solid black;
     width: 250px;
     margin: 23px;
     padding: 4px;
     border-radius: 20px;
+    display: inline-block;
+    margin-right: 50%;
+    background-color: bisque;
+    color: black;
+    font-family: 'Nanum Myeongjo', serif;
     
-    
+}
+.img3{
+    display: inline-block;
 }
